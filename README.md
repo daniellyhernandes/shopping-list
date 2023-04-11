@@ -1,2 +1,3 @@
 - Bananas
 - Milk
+- Protein bars
